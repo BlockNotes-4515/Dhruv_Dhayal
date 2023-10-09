@@ -20,6 +20,49 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
                         2. Gmail: dhayaldhruv271@gmail.com
                         3. Contact: 8529994515 (Working) |Status- Busy|
 
+  -🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
+
+                   👋 As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a 
+passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech industry.
+
+🎓 Education:
+Currently pursuing a Bachelor's degree in Computer Science, I have been immersed in a dynamic and challenging curriculum that covers a wide range of topics such as data structures, algorithms, software engineering, and database management. My academic journey has not only honed my problem-solving abilities but also instilled in me a thirst for knowledge in this ever-evolving field.
+
+💻 Technical Expertise:
+I have a solid command over various programming languages, including:
+
+Python: My go-to language for its simplicity and flexibility, enabling me to create efficient scripts and explore the realms of data analysis and machine learning.
+C/C++: A language I admire for its power and performance, which has helped me understand low-level concepts and develop efficient systems software.
+HTML/CSS/JavaScript/PHP: Proficient in Front-End & Back-End web technologies, I enjoy creating visually appealing and interactive web applications.
+SQL: With a firm grasp on database management, I can efficiently design and manipulate databases for various applications.
+
+💡 Projects and Passion:
+Throughout my academic journey, I have actively engaged in personal projects, hackathons, and coding competitions. These experiences have not only bolstered my technical skills but also taught me the value of teamwork and creativity in finding innovative solutions to complex problems. I also done my Project in the Web-Develoupment, Python Programming(Hotel-Management), and in coming near future my projects will be Announce soon.
+
+🌟 Key Strengths:
+
+Strong analytical skills with a detail-oriented approach to coding.
+Effective communicator and team player, thriving in collaborative environments.
+Keen on staying updated with the latest industry trends and best practices.
+
+🚀 Future Endeavors:
+As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
+||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://web.telegram.org/k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dhruv_Dhayal" height="30" width="40" /></a>
