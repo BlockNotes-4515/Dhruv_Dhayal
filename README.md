@@ -9,7 +9,7 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manannarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv_Dhayal" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img src="https://komarev.com/ghpvc/?username=manannarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruv_Dhayal" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/dhruv-dhayal-9568b7262/" target="blank"><img src="https://komarev.com/ghpvc/?username=BlockNotes-4515&label=Linkdin&color=0e75b6&style=flat" alt="Dhruv_Dhayal" /></a> </p>
 
 - 🗽🎌 I’m currently learning || OOps in C++, ASP.NET C# ||🎌
 
