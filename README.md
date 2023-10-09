@@ -22,8 +22,8 @@ DRY-(Don't Repeat Yourself) (My Software Developer Journey)
 
   -🔰<center><pre>||--------------------------------------------About Myself!-------------------------------------------------||
 
-                   👋 As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a 
-passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech industry.
+
+👋 As a 'BCA.H' Student & currently serve as a coordinator in Software Development Cell, I have a passionate of deep interest in software development & Software Engineering. passionate and driven Computer Science student with a deep-rooted love for programming and technology. Aspiring to make a positive impact in the digital world, I am constantly seeking opportunities to expand my skill set and grow as a professional in the tech industry.
 
 🎓 Education:
 Currently pursuing a Bachelor's degree in Computer Science, I have been immersed in a dynamic and challenging curriculum that covers a wide range of topics such as data structures, algorithms, software engineering, and database management. My academic journey has not only honed my problem-solving abilities but also instilled in me a thirst for knowledge in this ever-evolving field.
@@ -47,6 +47,7 @@ Keen on staying updated with the latest industry trends and best practices.
 
 🚀 Future Endeavors:
 As I approach the next phase of my journey, I'm eager to contribute my skills and passion to a dynamic team where I can continue to grow as a software developer. I am open to internships, projects, or job opportunities that align with my interests and allow me to challenge myself while making a meaningful impact.
+<br>
 ||-------------------------------------------------------------------------------------------------------------------------------------------||</pre></center>
 
 
